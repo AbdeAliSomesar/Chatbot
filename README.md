@@ -9,6 +9,8 @@ Architecture:-
 https://github.com/AbdeAliSomesar/Chatbot/blob/master/Architecture%20flowchart.png
 https://github.com/AbdeAliSomesar/Chatbot/blob/master/Sentiment%20analysis%20flowchart.png
 
+Application Screenshort:-https://github.com/AbdeAliSomesar/Chatbot/blob/master/App%20Screenshort%20.png
+
 Workflow:-
 To achieve all this functionality I divided the work in to four phases in first three phases chatbot will try to find match for replay and in
 fourth phases chatbot select the replay on based on sentiments score of each selected sentence and replay with the top rated sentence.
