@@ -5,6 +5,10 @@ In this project I made a chatbot which can interact or chat with humans without 
 been embedded into chatbot database, so it can identify the sentence and generate a desired outcome. For sentence identification input
 sentence will be divided into array of words and after matching the sentence with stored sentences chatbot will find a perfect match with the help of extraction algorithm. To improve the performance I added a sentiment analysis so we can focus on more positive replay.
 
+Architecture:-
+https://github.com/AbdeAliSomesar/Chatbot/blob/master/Architecture%20flowchart.png
+https://github.com/AbdeAliSomesar/Chatbot/blob/master/Sentiment%20analysis%20flowchart.png
+
 Workflow:-
 To achieve all this functionality I divided the work in to four phases in first three phases chatbot will try to find match for replay and in
 fourth phases chatbot select the replay on based on sentiments score of each selected sentence and replay with the top rated sentence.
